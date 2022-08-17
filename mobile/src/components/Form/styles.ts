@@ -28,8 +28,8 @@ export const styles = StyleSheet.create({
     marginRight: 8,
   },
   input: {
-    width: "auto",
     height: 112,
+    width: "100%",
     padding: 12,
     marginBottom: 8,
     borderRadius: 4,
