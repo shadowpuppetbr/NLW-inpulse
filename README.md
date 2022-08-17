@@ -1,3 +1,3 @@
 # Projeto Feedback Widget
-> desenvolvido pela [[rocketseat.com]rocketseat] e disponibilizado no evento NLW-Return
+> desenvolvido pela [Rocketseat](https://rocketseat.com.br) e disponibilizado no evento NLW-Return
 ---
